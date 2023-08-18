@@ -1,4 +1,4 @@
-# dummy comment by sreejesh
+# new dummy comment by sreejesh
 from cloudant import Cloudant
 from flask import Flask, render_template, request, jsonify
 import atexit
